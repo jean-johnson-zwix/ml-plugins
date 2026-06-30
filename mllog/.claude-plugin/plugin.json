@@ -5,6 +5,5 @@
   "author": {
     "name": "Jean Johnson",
     "url": "https://github.com/jean-johnson-zwix"
-  },
-  "hooks": "./hooks/hooks.json"
+  }
 }
