@@ -1,6 +1,6 @@
 {
   "$schema": "https://anthropic.com/claude-code/marketplace.schema.json",
-  "name": "mllog",
+  "name": "multimodal-mllog-plugin",
   "description": "Automatic experiment logging for ML coding sessions. Captures metrics, git state, and conversation transcripts as JSON records. Generate logbooks on demand.",
   "owner": {
     "name": "Jean Johnson",
